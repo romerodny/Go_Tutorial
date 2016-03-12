@@ -1,4 +1,4 @@
-This is all practice work from the Go Programming Language book.
+<b>This is all practice work from the Go Programming Language book.</b>
 
 NOTES:
 
